@@ -7,5 +7,5 @@ function identificador (n1){
         console.log ("impar")
     }
 }
-identificador(32)
+identificador(3)
 identificador(0)
